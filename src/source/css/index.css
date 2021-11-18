@@ -1,0 +1,165 @@
+* {
+  font-family: Verdana, Arial;
+  box-sizing: border-box;
+}
+.iresumex {
+  margin: 5px 0 20px;
+  user-select: none;
+}
+.iresume {
+  position: relative;
+  width: 1100px;
+  max-width: 95%;
+  margin: 0 auto;
+  display: flex;
+}
+.iresume:hover {
+  cursor: grab;
+}
+.iresume > .iresume-left {
+  float: left;
+  flex: 3;
+  border: 1px solid #ccc;
+  border-right: none;
+}
+.iresume > .iresume-right {
+  float: left;
+  flex: 7;
+  border: 1px solid #ccc;
+  padding-bottom: 30px;
+}
+.col2 .iresume-right {
+  border-left: 1px dashed #ccc;
+}
+.col3 .iresume-right {
+  border-left: none;
+}
+.iresume-left .iresume-box {
+  margin: 0 5% 20px 5%;
+}
+.iresume-right .iresume-box {
+  margin: 20px 5%;
+}
+.iresume-right .iresume-user-box {
+  margin: 20px 5% 0;
+  height: 164px;
+}
+.iresume-user-box .iresume-avatars {
+  float: right;
+}
+.iresume-user-box .iresume-username {
+  font-size: 2em;
+  line-height: 164px;
+  text-align: center;
+}
+.iresume-box-box {
+  margin: 10px 0 0;
+}
+.iresume-box .iresume-box-title {
+  font-size: 1.4em;
+  display: flex;
+  align-items: center;
+  padding: 10px 0;
+}
+.iresume-box-txt {
+  margin-left: 10px;
+}
+.iresume-box-content {
+  padding: 0 0 0 3%;
+  margin: 20px 0 0;
+}
+.concat-box {
+  height: 30px;
+  display: flex;
+  align-items: center;
+}
+.info-box {
+  height: 30px;
+  width: 50%;
+  display: inline-block;
+  box-sizing: border-box;
+}
+.concat-txt {
+  margin-left: 5px;
+}
+.iresume-box-head {
+  position: relative;
+  font-size: 18px;
+}
+.box-bottom {
+  margin: 20px 0;
+  border-bottom: 1px solid #ccc;
+}
+.iresume-enterprise-time {
+  position: absolute;
+  top: 2px;
+  right: 0;
+  font-size: 14px;
+}
+.iresume-box-article {
+  text-indent: 2em;
+  line-height: 1.5em;
+  word-wrap: break-word;
+}
+.iresume-enterprise .iresume-enterprise-title {
+  padding: 20px 0 0;
+  font-size: 1.2em;
+}
+.iresume-left .iresume-avatars {
+  padding: 50px 25% 0;
+}
+.iresume-avatars .iresume-img {
+  height: 164px;
+  border: 1px solid #ddd;
+}
+.iresume-left .iresume-username {
+  font-size: 2em;
+  text-align: center;
+  padding: 20px 0;
+}
+ul {
+  padding: 0;
+  margin: 0;
+}
+ol {
+  margin: 0;
+}
+ul > li {
+  list-style: none;
+  padding: 5px;
+}
+ol > li {
+  padding: 1% 0 0;
+}
+a {
+  text-decoration: none;
+  cursor: pointer;
+}
+a:hover {
+  text-decoration: underline;
+}
+.iresume .iresume-mini {
+  font-size: 0.8em;
+  line-height: 1.5em;
+}
+.icon-small {
+  font-size: 18px;
+}
+.icon-mid {
+  font-size: 30px;
+}
+.resume-project-url {
+  margin-left: 7px;
+  width: 20px;
+  height: 20px;
+}
+.iresume-project-title, .iresume-project-url {
+  vertical-align: middle;
+}
+.icon-link {
+  margin-left: 10px;
+  cursor: pointer;
+}
+.icon-link, .icon-link ~ span {
+  vertical-align: middle;
+}

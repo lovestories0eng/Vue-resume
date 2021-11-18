@@ -1,0 +1,127 @@
+{
+    "blue": {
+        "left": {
+            "bgColor": "#fff",
+            "fontColor": "#333",
+            "box": {
+                "titleColor": "#00a1d6"
+            }
+        },
+        "right": {
+            "bgColor": "#fff",
+            "fontColor": "#000",
+            "box": {
+                "infoColor": "#00a1d6",
+                "titleColor": "#00a1d6",
+                "hrColor": "#5ba4e5",
+                "project": {
+                    "titleColor": "#00a1d6",
+                    "urlColor": "#9966cc"
+                },
+                "mini": {
+                    "titleColor": "#5ba4e5"
+                }
+            }
+        }
+    },
+    "orange": {
+        "left": {
+            "bgColor": "#fff",
+            "fontColor": "#333",
+            "box": {
+                "titleColor": "#f17c67"
+            }
+        },
+        "right": {
+            "bgColor": "#fff",
+            "fontColor": "#000",
+            "box": {
+                "infoColor": "#f01b2d",
+                "titleColor": "#ff534d",
+                "hrColor": "#f01b2d",
+                "project": {
+                    "titleColor": "#ff534d",
+                    "urlColor": "#00a1d6"
+                },
+                "mini": {
+                    "titleColor": "#ff534d"
+                }
+            }
+        }
+    },
+    "purple": {
+        "left": {
+            "bgColor": "#fff",
+            "fontColor": "#333",
+            "box": {
+                "titleColor": "#9966cc"
+            }
+        },
+        "right": {
+            "bgColor": "#fff",
+            "fontColor": "#000",
+            "box": {
+                "infoColor": "#8f1d78",
+                "titleColor": "#7f1874",
+                "hrColor": "#9966cc",
+                "project": {
+                    "titleColor": "#7f1874",
+                    "urlColor": "#f17c67"
+                },
+                "mini": {
+                    "titleColor": "#8f1d78"
+                }
+            }
+        }
+    },
+    "pink": {
+        "left": {
+            "bgColor": "#fff",
+            "fontColor": "#333",
+            "box": {
+                "titleColor": "#fcadc3"
+            }
+        },
+        "right": {
+            "bgColor": "#fff",
+            "fontColor": "#000",
+            "box": {
+                "infoColor": "#fbb0c5",
+                "titleColor": "#faabc1",
+                "hrColor": "#fcadc3",
+                "project": {
+                    "titleColor": "#faabc1",
+                    "urlColor": "#00a1d6"
+                },
+                "mini": {
+                    "titleColor": "#fbb0c5"
+                }
+            }
+        }
+    },
+    "yellow": {
+        "left": {
+            "bgColor": "#fff",
+            "fontColor": "#333",
+            "box": {
+                "titleColor": "#ba874c"
+            }
+        },
+        "right": {
+            "bgColor": "#fff",
+            "fontColor": "#000",
+            "box": {
+                "infoColor": "#ba874c",
+                "titleColor": "#ba874c",
+                "hrColor": "#de8100",
+                "project": {
+                    "titleColor": "#e9ae6a",
+                    "urlColor": "#00a1d6"
+                },
+                "mini": {
+                    "titleColor": "#e9ae6a"
+                }
+            }
+        }
+    }
+}
